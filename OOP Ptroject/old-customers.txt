@@ -1,0 +1,56 @@
+
+Customer ID: 123
+Name: umair
+Age: 12
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 12
+Name: shahzaib
+Age: 19
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 123
+Name: hamza
+Age: 45
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 0
+Name: 
+Age: 5
+Mobile Number: 0
+Address: 
+Gender: 
+
+Customer ID: 123
+Name: zulli
+Age: 14
+Mobile Number: 123654
+Address: asdfgfdadfs
+Gender: male
+
+Customer ID: 145
+Name: zeeshan
+Age: 13
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 145
+Name: zeeshan
+Age: 15
+Mobile Number: 123654
+Address: asdfgdbgdf
+Gender: female
+
+Customer ID: 0
+Name: 
+Age: 5
+Mobile Number: 0
+Address: 
+Gender: 

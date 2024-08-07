@@ -1,0 +1,28 @@
+
+Customer ID: 1
+Name: dfg
+Address: dfg
+Gender: df
+Age: 123
+Mobile Number: 1234567890
+
+Customer ID: 2
+Name: dfg
+Address: dfg
+Gender: dfg
+Age: 12
+Mobile Number: 1234567890
+
+Customer ID: 1
+Name: vbg
+Address: v
+Gender: vbg
+Age: 2
+Mobile Number: 7896541236
+
+Customer ID: 1
+Name: faran
+Address: ad
+Gender: m
+Age: 14
+Mobile Number: 3214569874

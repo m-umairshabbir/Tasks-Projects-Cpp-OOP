@@ -1,0 +1,11 @@
+--------The Creator's Travel Agency--------
+---------------Receipt-------------
+_________________________________
+Customer ID: 1
+
+Description		 Total
+Hotel cost:		 0.00
+Travel (cab) cost:	 750.00_________________________________
+Total Charge:		 750.00
+_________________________________
+------------THANK YOU------------

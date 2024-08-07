@@ -1,0 +1,2 @@
+Data copied from Sample.dat
+Password	2
